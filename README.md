@@ -22,8 +22,6 @@ Here are some ideas to get you started:
 ### Github Statistics
 ![Erik's github stats](https://github-readme-stats.vercel.app/api?username=erik1110&show_icons=true&hide_border=true&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erik1110&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Repo Recommend
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=erik1110&repo=Data-Science)](https://github.com/anuraghazra/github-readme-stats)
 
