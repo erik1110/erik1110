@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+
 <!--
 **erik1110/erik1110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,9 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+### About me 
 -  I’m currently challenging the ithelp 13th-ironman about Data Science Learning Roadmap about Python. You can check [here](https://ithelp.ithome.com.tw/users/20114380/ironman/3998)!
-- 
+
+### Github Statics
 ![Erik's github stats](https://github-readme-stats.vercel.app/api?username=erik1110&show_icons=true&hide_border=true)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=erik1110/erik1110)
