@@ -23,7 +23,12 @@ Here are some ideas to get you started:
 ![Erik's github stats](https://github-readme-stats.vercel.app/api?username=erik1110&show_icons=true&hide_border=true&count_private=true)
 
 ### Repo Recommend
+- Machine Learning
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=erik1110&repo=Data-Science)](https://github.com/erik1110/Data-Science)
 
+- Creating a web using Flask
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=erik1110&repo=booking_system)](https://github.com/erik1110/Data-Science)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=erik1110/erik1110)
