@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a software engineer who is interested in learning machine learning, deep learning about computer vision, and building a website.
+I'm a software engineer who is interested in machine learning, deep learning about computer vision, and building a website.
 
 <!--
 **erik1110/erik1110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
