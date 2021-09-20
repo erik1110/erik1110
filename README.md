@@ -29,6 +29,6 @@ Here are some ideas to get you started:
 
 - Creating a web using Flask
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=erik1110&repo=booking_system)](https://github.com/erik1110/Data-Science)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=erik1110&repo=booking_system)](https://github.com/erik1110/booking_system)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=erik1110/erik1110)
