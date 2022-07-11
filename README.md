@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### About me 
--  I’m currently challenging the ithelp 13th-ironman about Data Science Learning Roadmap about Python. You can check [here](https://ithelp.ithome.com.tw/users/20114380/ironman/3998)!
+-  I have challenged the ithelp 13th-ironman about Data Science Learning Roadmap about Python. You can check [here](https://ithelp.ithome.com.tw/users/20114380/ironman/3998)!
 
 ### Github Statistics
 ![Erik's github stats](https://github-readme-stats.vercel.app/api?username=erik1110&show_icons=true&hide_border=true&count_private=true)
