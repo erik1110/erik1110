@@ -21,7 +21,9 @@ Here are some ideas to get you started:
 
 ### Github Statistics
 ![Erik's github stats](https://github-readme-stats.vercel.app/api?username=erik1110&show_icons=true&hide_border=true&count_private=true)
-
+![](https://raw.githubusercontent.com/erik1110/erik1110/main/profile-summary-card-output/vue/0-profile-details.svg)
+![](https://raw.githubusercontent.com/erik1110/erik1110/main/profile-summary-card-output/vue/2-most-commit-language.svg)
+![](https://raw.githubusercontent.com/erik1110/erik1110/main/profile-summary-card-output/vue/3-stats.svg)
 ### Repo Recommend
 - Machine Learning
 
