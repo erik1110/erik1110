@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ### About me 
 - My personal website. [Click me.](https://erik1110.github.io/my-website/)
 - I have challenged the ithelp 13th-ironman about Data Science Learning Roadmap about Python. You can check [here](https://ithelp.ithome.com.tw/users/20114380/ironman/3998)!
-- I have a PyCon 2022 speech topic which is [Realize hyper-automatic captcha recognition](https://youtu.be/oD-FT_33yW4).
+- I have a PyCon 2022 speech topic which is [Achieve a Hyper Automation for Captcha Recognizer](https://youtu.be/oD-FT_33yW4).
 
 
 ### Github Statistics
