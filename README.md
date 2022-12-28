@@ -26,13 +26,3 @@ Here are some ideas to get you started:
 ![](https://raw.githubusercontent.com/erik1110/erik1110/main/profile-summary-card-output/vue/0-profile-details.svg)
 ![](https://raw.githubusercontent.com/erik1110/erik1110/main/profile-summary-card-output/vue/2-most-commit-language.svg)
 ![](https://raw.githubusercontent.com/erik1110/erik1110/main/profile-summary-card-output/vue/3-stats.svg)
-### Repo Recommend
-- Machine Learning
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=erik1110&repo=Data-Science)](https://github.com/erik1110/Data-Science)
-
-- Creating a web using Flask
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=erik1110&repo=booking_system)](https://github.com/erik1110/booking_system)
-
-![](https://visitor-badge.glitch.me/badge?page_id=erik1110/erik1110)
