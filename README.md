@@ -2,7 +2,7 @@
 
 I'm a full-stack software engineer.
 - Frontend: Vue.js
-- Backend: FastAPI
+- Backend: FastAPI, NodeJs
 
 <!--
 **erik1110/erik1110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
