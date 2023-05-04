@@ -10,7 +10,6 @@ I'm a backend software engineer and like to learn something new.
 - 💬 I have a PyCon 2022 speech, and the topic is [Achieve a Hyper Automation for Captcha Recognizer](https://youtu.be/oD-FT_33yW4).
 - 🌱 I have developed a voting web system in E.SUN COMMERCIAL BANK. [Click me.](https://github.com/esun-ai/voting_system)
 
-
 ### Github Statistics
 ![](https://raw.githubusercontent.com/erik1110/erik1110/main/profile-summary-card-output/vue/0-profile-details.svg)
 ![](https://raw.githubusercontent.com/erik1110/erik1110/main/profile-summary-card-output/vue/2-most-commit-language.svg)
