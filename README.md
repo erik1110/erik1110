@@ -1,4 +1,4 @@
-<h1 align="center"> 👨🏻‍💻 Hello There, I'm Erik Ho 👋🏻 </h1>
+<h1 align="center"> 👨🏻‍💻 Hello There, I'm Erik Ho 👋🏻 <img src="https://komarev.com/ghpvc/?username=erik1110&color=800080" alt="erik1110" /></h1>
 
 I'm a backend software engineer and like to learn something new.
 - ✨ Frontend: Vue.js
