@@ -2,7 +2,7 @@
 
 I'm a backend software engineer and like to learn something new.
 - ✨ Frontend: Vue.js
-- 💻 Backend: FastAPI, NodeJS
+- 💻 Backend: FastAPI, Flask, NodeJS
 
 ### About me 
 - 🌐 My personal website. [Click me.](https://erik1110.github.io/my-website/)
@@ -17,3 +17,6 @@ I'm a backend software engineer and like to learn something new.
 ![](https://raw.githubusercontent.com/erik1110/erik1110/main/profile-summary-card-output/vue/3-stats.svg)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=erik1110/erik1110)
+
+### Languages and Tools
+![](https://skillicons.dev/icons?i=vscode,linux,gcp,nginx,nodejs,express,js,js,ts,py,fastapi,flask,vue,vite,tailwind,html,css,selenium,mongodb,sqlite,postgres,redis,rabbitmq,firebase,postman,docker,kubernetes,git,github,githubactions,linkedin,discord,instagram&theme=light)
