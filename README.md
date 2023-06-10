@@ -15,7 +15,5 @@ I'm a backend software engineer and like to learn something new.
 ![](https://raw.githubusercontent.com/erik1110/erik1110/main/profile-summary-card-output/vue/2-most-commit-language.svg)
 ![](https://raw.githubusercontent.com/erik1110/erik1110/main/profile-summary-card-output/vue/3-stats.svg)
 
-![](https://visitor-badge.glitch.me/badge?page_id=erik1110/erik1110)
-
 ### Languages and Tools
 ![](https://skillicons.dev/icons?i=vscode,linux,gcp,nginx,nodejs,express,vue,vite,tailwind,html,css,js,ts,py,fastapi,flask,selenium,mongodb,sqlite,postgres,redis,rabbitmq,firebase,postman,docker,kubernetes,git,github,githubactions,linkedin,discord,instagram&theme=light)
