@@ -9,6 +9,7 @@ I'm a backend software engineer and like to learn something new.
 - 📝 I have challenged the ithelp 13th-ironman about Data Science Learning Roadmap about Python. You can check [here](https://ithelp.ithome.com.tw/users/20114380/ironman/3998)!
 - 💬 I have a PyCon 2022 speech, and the topic is [Achieve a Hyper Automation for Captcha Recognizer](https://youtu.be/oD-FT_33yW4).
 - 🌱 I have developed a voting web system in E.SUN COMMERCIAL BANK. [Click me.](https://github.com/esun-ai/voting_system)
+- 🚀 I have collaborated with other engineers to develop a side project for a task management system. [Live Demo](https://superhandy-frontend-fork.herokuapp.com/)
 
 ### Github Statistics
 ![](https://raw.githubusercontent.com/erik1110/erik1110/main/profile-summary-card-output/vue/0-profile-details.svg)
