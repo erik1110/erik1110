@@ -6,6 +6,7 @@ I'm a backend software engineer and like to learn something new.
 
 ### About me 
 - 🌐 My personal website. [Click me.](https://erik1110.github.io/my-website/)
+- 🏠 My blog website. [Click me](https://erik1110.github.io/)
 - 📔 My personal medium. [Click me.](https://medium.com/@erikho_51835)
 - 📝 I have challenged the ithelp 13th-ironman about Data Science Learning Roadmap about Python. You can check [here](https://ithelp.ithome.com.tw/users/20114380/ironman/3998)!
 - 💬 I have a PyCon 2022 speech, and the topic is [Achieve a Hyper Automation for Captcha Recognizer](https://youtu.be/oD-FT_33yW4).
