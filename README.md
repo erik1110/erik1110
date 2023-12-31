@@ -2,7 +2,7 @@
 
 I'm a backend software engineer and like to learn something new.
 - ✨ Frontend: Vue.js
-- 💻 Backend: FastAPI, Flask, NodeJS
+- 💻 Backend: FastAPI, Flask, NodeJS (JavaScript, TypeScript)
 
 ### About me 
 - 🌐 My personal website. [Click me.](https://erik1110.github.io/my-website/)
