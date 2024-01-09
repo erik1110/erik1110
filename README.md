@@ -5,7 +5,7 @@ I'm a backend software engineer and like to learn something new.
 - 💻 Backend: FastAPI, Flask, NodeJS
 
 ### About me 
-- 🌐 My personal website. [Click me.](https://erik1110.github.io/my-website/)
+- 🌐 My personal website. [Click me.](https://erik1110.com/my-website/)
 - 🏠 My blog website. [Click me](https://erik1110.com/)
 - 📔 My personal medium. [Click me.](https://medium.com/@erikho_51835)
 - 📝 I have challenged the ithelp 13th-ironman about Data Science Learning Roadmap about Python. You can check [here](https://ithelp.ithome.com.tw/users/20114380/ironman/3998)!
