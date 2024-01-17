@@ -19,4 +19,4 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
-          EXCLUDE: "HTML,CSS"
+          EXCLUDE: "HTML,CSS,Markdown"
