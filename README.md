@@ -16,7 +16,7 @@ I'm a backend software engineer and like to learn something new.
 
 ### Github Statistics
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=erik1110&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=erik1110&theme=radical&card_width=480)](https://git.io/streak-stats)
 [![](https://raw.githubusercontent.com/erik1110/erik1110/main/profile-summary-card-output/ayu_mirage/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/erik1110/erik1110/main/profile-summary-card-output/ayu_mirage/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/erik1110/erik1110/main/profile-summary-card-output/ayu_mirage/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/erik1110/erik1110/main/profile-summary-card-output/ayu_mirage/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/erik1110/erik1110/main/profile-summary-card-output/ayu_mirage/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
