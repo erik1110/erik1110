@@ -15,9 +15,11 @@ I'm a backend software engineer and like to learn something new.
 - 🌍 My native language is Chinese, and I also speak English and Japanese.
 
 ### Github Statistics
-![](https://raw.githubusercontent.com/erik1110/erik1110/main/profile-summary-card-output/graywhite/0-profile-details.svg)
-[![](https://raw.githubusercontent.com/erik1110/erik1110/main/profile-summary-card-output/graywhite/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/erik1110/erik1110/main/profile-summary-card-output/graywhite/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-![](https://raw.githubusercontent.com/erik1110/erik1110/main/profile-summary-card-output/graywhite/3-stats.svg)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=erik1110&theme=dark)](https://git.io/streak-stats)
+[![](https://raw.githubusercontent.com/erik1110/erik1110/main/profile-summary-card-output/ayu_mirage/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/erik1110/erik1110/main/profile-summary-card-output/ayu_mirage/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/erik1110/erik1110/main/profile-summary-card-output/ayu_mirage/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/erik1110/erik1110/main/profile-summary-card-output/ayu_mirage/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/erik1110/erik1110/main/profile-summary-card-output/ayu_mirage/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ### Languages and Tools
 ![](https://skillicons.dev/icons?i=vscode,linux,gcp,nginx,nodejs,express,vue,vite,tailwind,html,css,js,ts,py,fastapi,flask,selenium,mongodb,sqlite,postgres,redis,rabbitmq,firebase,postman,docker,kubernetes,git,github,githubactions,linkedin,discord,instagram&theme=light)
