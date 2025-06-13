@@ -18,6 +18,7 @@ I'm a backend software engineer and like to learn something new.
 [![](https://raw.githubusercontent.com/erik1110/erik1110/main/profile-summary-card-output/ayu_mirage/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/erik1110/erik1110/main/profile-summary-card-output/ayu_mirage/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/erik1110/erik1110/main/profile-summary-card-output/ayu_mirage/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/erik1110/erik1110/main/profile-summary-card-output/ayu_mirage/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/erik1110/erik1110/main/profile-summary-card-output/ayu_mirage/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+![LeetCode Stats](https://leetcard.jacoblin.cool/erik1110?theme=nord&ext=heatmap)
 
 ### Languages and Tools
 ![](https://skillicons.dev/icons?i=vscode,linux,gcp,nginx,nodejs,express,nestjs,figma,vue,vite,tailwind,html,css,js,ts,c,php,py,java,spring,fastapi,flask,selenium,mongodb,sqlite,postgres,redis,rabbitmq,firebase,postman,docker,kubernetes,git,github,githubactions,grafana,prometheus,linkedin,discord,instagram,notion&perline=13)
